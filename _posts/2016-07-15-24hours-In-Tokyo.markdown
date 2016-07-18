@@ -9,7 +9,8 @@ This is a blog post that I wrote a long time ago that tries to outline a plan to
 
 Transportation: You can get everywhere via subway, train and buses. Public transportation is usually faster than taking a taxi from point A to B. 
 
-1st stop Tsukiji Fish Market 5am (or 9am if you can’t make it that early)
+###1st stop **Tsukiji Fish Market**
+_5am (or 9am if you can’t make it that early)_
 [Tsukiji Fish Market](https://en.wikipedia.org/wiki/Tsukiji_fish_market)
 
 Add Headings (Format > Paragraph styles) and they will appear in your table of contents.
