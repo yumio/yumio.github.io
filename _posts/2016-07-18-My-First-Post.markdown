@@ -4,6 +4,9 @@ title:  "My First Post!"
 date:   2016-07-18 10:57:55 -0400
 categories: 
 ---
+
+![Bryce Canyon]({{site.url}}/assets/BryceCanyon.jpg)
+
 This is my first post.  I'm still learning how to do everything. 
 In the last 4 days I've learned the following:
 
