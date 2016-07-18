@@ -1,23 +1,19 @@
 ---
 layout: post
-title:  "My First Post!"
+title:  "Tokyo in 24 Hours"
 date:   2016-07-15 10:57:55 -0400
 categories: 
 ---
-
-
-Hi Everyone
-
 
 This is a blog post that I wrote a long time ago that tries to outline a plan to pack as much of Tokyo in one 24 hour day as possible. If you actually tried to do this whole plan, you will be very exhausted by the end, but you would’ve seen a lot of what makes Tokyo special.  There are obviously plenty of other things to do in Tokyo.  This is just what I would do if I were to show someone around who has never been to Tokyo.  
 
 Transportation: You can get everywhere via subway, train and buses. Public transportation is usually faster than taking a taxi from point A to B. 
 
 1st stop Tsukiji Fish Market 5am (or 9am if you can’t make it that early)
-https://en.wikipedia.org/wiki/Tsukiji_fish_market
+[Tsukiji Fish Market](https://en.wikipedia.org/wiki/Tsukiji_fish_market)
 
 Add Headings (Format > Paragraph styles) and they will appear in your table of contents.
-![TsukijiFishMarket]({{ site.url}}(/assets/TsukijiFishMarket.jpg)
+![TsukijiFishMarket]({{ site.url}}/assets/TsukijiFishMarket.jpg)
 
 
 
