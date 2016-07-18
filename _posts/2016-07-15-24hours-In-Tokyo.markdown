@@ -1,0 +1,233 @@
+---
+layout: post
+title:  "My First Post!"
+date:   2016-07-15 10:57:55 -0400
+categories: 
+---
+
+
+Hi Everyone
+
+
+This is a blog post that I wrote a long time ago that tries to outline a plan to pack as much of Tokyo in one 24 hour day as possible. If you actually tried to do this whole plan, you will be very exhausted by the end, but you would’ve seen a lot of what makes Tokyo special.  There are obviously plenty of other things to do in Tokyo.  This is just what I would do if I were to show someone around who has never been to Tokyo.  
+
+Transportation: You can get everywhere via subway, train and buses. Public transportation is usually faster than taking a taxi from point A to B. 
+
+1st stop Tsukiji Fish Market 5am (or 9am if you can’t make it that early)
+https://en.wikipedia.org/wiki/Tsukiji_fish_market
+
+Add Headings (Format > Paragraph styles) and they will appear in your table of contents.
+![TsukijiFishMarket]({{ site.url}}(/assets/TsukijiFishMarket.jpg)
+
+
+
+You need to go in the early morning when the bidding happens (5-6am) or after 9am when you can enter the wholesale area.  Eat breakfast sushi at any of the sushi restaurants with the freshest fish you’ll ever eat.
+
+
+From Tsukiji, take train to Asakusa
+
+
+2nd Stop Asakusa (11am - 1pm)
+https://en.wikipedia.org/wiki/Asakusa
+Get off at Asakusa station and make your way to “Kaminari-mon” 
+https://en.wikipedia.org/wiki/Kaminarimon
+ kaminarimon_large.jpg 
+
+Walk through the gates and there is a street full of traditional Japanese snacks and souvenir vendors.  Make your way to Senso-ji, a big Buddhist temple.  http://www.japan-guide.com/e/e3001.html
+On the left is a 5 story pagoda.
+
+
+ 2013-03-25-Asakusa.JPG 
+
+
+
+From Asakusa - getting to Kappabashi
+https://foodsaketokyo.com/2009/10/16/kappabashi-getting-there/
+
+
+3rd Stop Kappabashi (1pm)
+http://www.japan-guide.com/e/e3020.html
+Some people get a big kick out of this.  This is basically a wholesale district for people that own 
+restaurants, and one cool thing is seeing the most realistic plastic foods imaginable.  Plastic foods are used as displays in many Japanese restaurants, and this is where you can buy them.  You’ll find very real looking plastic models of sushi, every kind of fruit & vegetable, steaks, seafood, etc.  See below.
+https://randomwire.com/japan-plastic-food/
+
+
+ Kappabashi.jpg 
+
+
+
+ Kappabashi.jpeg 
+
+
+
+
+
+Potential Lunch Place if you missed sushi in the morning
+http://tummyfull.blogspot.com/2015/03/cheap-lunch-set-at-kappabashi-kiku.html
+
+
+Take Ginza line subway from Tawaramachi station to Akihabara (Hibiya line)
+
+
+
+
+Alternate 3rd Stop Skytree
+https://en.wikipedia.org/wiki/Tokyo_Skytree
+If you elect to skip Kappabashi, but want to visit one of the world’s tallest structures in the world, go to Tokyo Skytree. Take a cab or walk over to Tokyo Skytree, the tallest structure in Japan (2nd tallest in the world). This is an somewhat expensive stop, so you can elect to skip it, but the sheer height of the structure and the views are amazing, especially if its a nice day.  (Might skip it if its cloudy).
+
+
+ skytree.jpg 
+
+
+
+Alternate 3rd/4th Stop Take the River Boat Down Sumida River
+http://www.japan-guide.com/e/e3042.html
+Sumida river is one of the major rivers that run through Tokyo and you get a sense of Tokyo’s past and present, its industrial/manufacturing past turning into office & entertainment complexes of the future.  
+
+
+ sumidarivercruise.jpg 
+
+
+
+Get on at Asakusa station and take it down to HamaRikyu, a traditional Japanese garden.  http://www.japan-guide.com/e/e3025.html  Entry fee is 300 yen.
+
+
+ hama-rikyu-gardens-feature.jpg 
+
+
+
+From HamaRikyu, you can take public transportation to Meiji Shrine/Harajuku. 
+
+
+4th Stop Akihabara (2pm)
+http://www.japan-guide.com/e/e3003.html
+This is Tokyo’s mecca for anime and electronic gadgets.  You can just wander around the Electric shop district
+ Akihabara.jpg 
+
+
+
+
+
+Check out inside AKB48 (i am a fan) building for a quick taste of maid cafe (cafe where waitresses are dressed up as french maids.  Its weird, but also distinctly Japanese. 
+https://jonellepatrick.com/2015/02/23/akihabara-what-to-do/
+
+
+
+
+
+
+
+
+5th Stop Meiji Shrine (4pm)
+From Akihabara, you can take the JR Yamanote line (green line) to get to Harajuku/Meiji Jingumae.
+http://www.japan-guide.com/e/e3002.html
+
+
+ meiji-shrine-entrance-gate.jpg 
+
+
+
+This is Tokyo’s largest Shinto Shrine (Shinto is pagan polytheist religion - belief that there are many gods - god of wind, god of mountains, etc.) It is a nice peaceful walk through the gravel and ends up in a nice Shinto Shrine.  If you pay attention, shrines are fundamentally different from Buddhist temples (like Senso-ji in Asakusa in the morning). 
+
+
+6th Stop Harajuku (6pm)
+After strolling through Meiji Shrine, you can visit Harajuku, where you see people dressed like this:  TokyoFashionHarajukuGroup.jpg 
+http://www.japan-guide.com/e/e3006.html
+Walk down Takeshita-dori, where there are many vintage clothing stores and yummy crepes.  
+
+
+6.5th Alternate Stop Omotesando
+https://en.wikipedia.org/wiki/Omotesand%C5%8D
+This is a lot of walking, but if you are into fashion/brands, you can’t miss Omotesando.  It is like the brand mecca of Tokyo. This is where you will find Chanel, Gucci, Hugo Boss, etc.  Funny thing is you’ll also find Gap, which in Japan is considered somewhat fashionable.  
+ ChanelOmotesando.jpg 
+ 
+ 
+Omotesando also has Kiddyland! Its a giant toy store catering to all things cute (not just Hello Kitty)! 
+
+
+ kiddyland.jpg 
+
+7th Stop Shibuya (8pm)
+http://www.japan-guide.com/e/e3007.html
+
+
+ Shibuya Crossing Tokyo  03 20140504 www.for91days.com DSC00492.JPG 
+
+
+
+Go to the Starbucks that is on the 2nd floor facing the giant traffic pedestrian circle.  
+http://www.yelp.com/biz/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9-%E6%B8%8B%E8%B0%B7%E3%83%84%E3%82%BF%E3%83%A4%E5%BA%97-%E6%B8%8B%E8%B0%B7%E5%8C%BA
+
+
+https://www.youtube.com/watch?v=QXtOdSgf6Ic
+
+
+Walk around the area - down 109 street to check out latest street fashion.  
+
+
+
+
+8th Stop Roppongi (10pm)
+http://www.japan-guide.com/e/e3031.html
+This is the gaijin (white people) area. Because of its proximity to the American Embassy and what used to be the military family complex, there are always a lot of Americans and other white people who party here.  There are bars where you can easily find other English speakers.  You’ll find many models from Eastern Europe at these bars.  
+
+
+ roppongi.jpg 
+
+
+
+Have a cocktail at the Ritz Carlton (on 45th floor of Tokyo MidTown) or Roppongi Hills.  But the  
+best bars are on the street. 
+
+
+
+
+9th Stop Shinjuku (midnight + )
+http://www.japan-guide.com/e/e3011.html
+This is where they filmed Lost in Translation. https://en.wikipedia.org/wiki/Lost_in_Translation_(film)
+
+
+ shinjuku.jpg 
+
+
+
+Its a virtual night owl paradise.  I have spent many an all-nighters here in my youth.  There are places to drink and party all night, as well as a 24 hour movie theater.  You should visit a unique department store called Don Quixote - its a big chain but its like a Target for the weird.  They have every weird thing you can say “only in Japan. 
+https://www.youtube.com/watch?v=PNvdJFiJWcs
+
+
+ Donquixote.jpg 
+
+
+
+If you want a genuine Japanese experience, maybe this is where you do your karaoke 
+http://www.theguardian.com/travel/2012/feb/01/top-10-weird-bars-karaoke-tokyo
+
+
+By the end of the night, you might be this guy
+ salary11.jpg 
+
+
+
+
+
+
+
+Optional Day Trips Outside of Tokyo
+
+
+Beach
+Kamakura and Enoshima are probably the closest beach that is reasonably toursity so you can find English speakers.  You can take the train to Enoshima/Kamakura. 
+ Enoshima_Kamakura.jpg 
+
+ kamakura.jpg 
+
+You can see the Big Buddha in Kamakura as well. 
+
+
+ kamakura-great-buddha-90.4.jpg 
+
+
+
+Totoro Museum  (Sorry its closed until July 15) 
+http://www.ghibli-museum.jp/en/
+ totoromuseum.jpeg
