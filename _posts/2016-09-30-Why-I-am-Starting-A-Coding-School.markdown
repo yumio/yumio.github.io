@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why I'm starting a Coding School"
+title: "Why everyone should learn to code"
 date: 2016-09-30 10:57:55 -0400
 categories: 
 ---
@@ -20,7 +20,5 @@ This is such a big problem, and I'm not quite sure anyone has the panacea - but 
 To achieve 100% coding literacy among the population, I think we need to start at the elementary school level.  Coding should not be seen as a skill only privileged math and science wizards pursue, but something as common as long division.  Most of all, I think every kid should be exposed to this skill because it can be so empowering when they discover what they can do with a few lines of code.   
 The other place I want to pursue this idea of spreading coding literacy is in the developing countries.  Coding skills are highly prized in today's labor marketplace as they are in critical short supply.  It has become almost impossible to hire a college graduate with a computer science degree without paying a king's ransom.  From big tech companies to startups, recruiters scour the globe for tech talent.  
 But these recruiters still look for tech talent in the familiar places, like computer science and engineering departments at top universities in these countries (the last company I worked at recruited exclusively from the top university in Armenia).  
-While this benefits those lucky enough to have gotten into the tech departments of the best universities in these countries, it doesn't benefit the populace at large.  So I am starting Infinity Coding Academy to target developing countries that have a large population of tech savvy but not coding literate workers.  
-Premise behind the two ideas       
-
+While this benefits those lucky enough to have gotten into the tech departments of the best universities in these countries, it doesn't benefit the populace at large.  We need a solution for the other 99%.
 
