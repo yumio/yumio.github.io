@@ -8,7 +8,8 @@ categories:
 What is creative computing?  Here is a reputable source, Harvard Graduate School of Education, who has come up with an eloquent definition that I copy in full because I couldn't have put it any better. [Definition of Creative Computing](http://scratched.gse.harvard.edu/guide/)
 
 *Creative computing is...*
-## creativity
+creativity
+==========
 
 Computer science and computing-related fields have long been introduced to young people in a way that is disconnected from their interests and values – emphasizing technical detail over creative potential. Creative computing supports the development of personal connections to computing, by drawing upon creativity, imagination, and interests.
 
